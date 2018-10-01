@@ -1,4 +1,6 @@
-# Nem monthy python, nem monthly python, hanem weekly python
+# Nem monthy python, 
+# nem monthly python, 
+# hanem weekly python
 
 A cégnél minden héten összejövünk egy kicsit másfél órára, hogy kimozduljunk a komfortzónánkból, programozási feladatokat oldjunk meg, és közben tanuljuk a problémamegoldás szépségeit és a python rejtelmeit. 
 
